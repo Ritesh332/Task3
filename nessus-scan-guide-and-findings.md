@@ -22,3 +22,14 @@
 - Target
 
   ![Nessus Scan Editor](screenshots/Nessus_Essentials_Scans_Editor.png)
+
+  After fillings the details, run the Scan. The scan may take 5–15 minutes depending on system resources.
+
+5. View and Analyze Results
+
+- Click on the scan name → Review vulnerability list
+
+  ![Nessus Scan Summary](screenshots/scan-summary.png)
+  
+
+

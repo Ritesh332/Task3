@@ -14,4 +14,4 @@
 - Navigate to **Scans → New Scan**
 - Choose **Basic Network Scan**
 
-  ![Nessus Scan Templates](screenshots/Nessus Essentials _ Scan Templates.png)
+  ![Nessus Scan Templates](screenshots/Nessus_Essentials_Scan_Templates.png)

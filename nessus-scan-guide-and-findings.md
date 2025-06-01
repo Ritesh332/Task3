@@ -76,18 +76,18 @@
 
            For Apache:
 
-               ```
+               
                   Header always set X-Frame-Options "DENY"
                   Header always set X-Content-Type-Options "nosniff"
                   Header always set Referrer-Policy "no-referrer"
-               ```
+         
             For Nginx:
 
-               ```
+               
                   add_header X-Frame-Options "DENY";
                   add_header X-Content-Type-Options "nosniff";
                   add_header Referrer-Policy "no-referrer";
-               ```
+               
       3. **Update Web Server Software**
 
          - Regularly update Apache/Nginx to patch known CVEs.

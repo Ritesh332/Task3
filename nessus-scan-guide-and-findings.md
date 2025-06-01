@@ -15,3 +15,10 @@
 - Choose **Basic Network Scan**
 
   ![Nessus Scan Templates](screenshots/Nessus_Essentials_Scan_Templates.png)
+
+4. **Fill Scan Details**
+
+- Name
+- Target
+
+  ![Nessus Scan Editor](screenshots/Nessus_Essentials_Scans_Editor.png)

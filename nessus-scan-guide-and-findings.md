@@ -25,11 +25,14 @@
 
   After fillings the details, run the Scan. The scan may take 5–15 minutes depending on system resources.
 
-5. View and Analyze Results
+5. **View and Analyze Results**
 
 - Click on the scan name → Review vulnerability list
 
   ![Nessus Scan Summary](screenshots/scan-summary.png)
   
+6. **Let's Analyze My Findings**
 
+   ![Result 1](screenshots/scan-result1.png)
+   ![Result 2](screenshots/scan-result2.png)
 

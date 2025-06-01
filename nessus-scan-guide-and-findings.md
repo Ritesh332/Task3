@@ -76,14 +76,14 @@
 
            For Apache:
 
-               ```apache
+               ```
                   Header always set X-Frame-Options "DENY"
                   Header always set X-Content-Type-Options "nosniff"
                   Header always set Referrer-Policy "no-referrer"
                ```
             For Nginx:
 
-               ```nginx
+               ```
                   add_header X-Frame-Options "DENY";
                   add_header X-Content-Type-Options "nosniff";
                   add_header Referrer-Policy "no-referrer";
